@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "tuberose",
+  "base_artist": "Albemuth",
+  "createdAt": "2026-02-25T09:47:21.397404Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜來香 - Tuberose",
+      "artist": "David Tao",
+      "has_synced": true,
+      "path": "select/01_夜來香_-_Tuberose_David_Tao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "tuberose",
+      "artist": "Albemuth",
+      "has_synced": false,
+      "path": "select/02_tuberose_Albemuth.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tuberose",
+      "artist": "Damdamgugu",
+      "has_synced": true,
+      "path": "select/03_Tuberose_Damdamgugu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pua Tuberose",
+      "artist": "Gabby Pahinui",
+      "has_synced": false,
+      "path": "select/04_Pua_Tuberose_Gabby_Pahinui.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tuberose",
+      "artist": "SUNMI",
+      "has_synced": true,
+      "path": "select/05_Tuberose_SUNMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "tuberose",
+      "artist": "Albemuth, 存流, 明透",
+      "has_synced": false,
+      "path": "select/pl_01_tuberose_Albemuth,_存流,_明透.txt"
+    }
+  ]
+}
